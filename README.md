@@ -1,1 +1,1 @@
-# Bank-Database-System-Using-MySQL
+# Bank-Database-System-MySQL
